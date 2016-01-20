@@ -1,0 +1,7 @@
+begin
+declare a_1 varchar(10);
+declare a_2 varchar(10);
+set a_1 = (select `region` from `t_enterprise_info` where `tsn`=new.enter_tsn);
+set a_2 = (select `industry_type` from `t_enterprise_info` where `tsn`=new.enter_tsn);
+insert into t_limit_summary(enter_tsn,limit_fill_tsn,region,industry_type,limit_year,audit_state,Crt_date) values (new.enter_tsn,new.tsn,a_1,a_2,date_format('Crt_date','%Y'),'Î´ÉóºË',current_time);
+end;

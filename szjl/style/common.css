@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+/*
+ *  @Description: common css
+ *  @author: haibao
+ *  @Update: 2014-10-23
+ */
+
+/*------------------- 鍗庝附鍒嗗壊绾� -----------------------*/
+
+.demo{width:94%;margin:20px auto;text-align:left;}
+.demo a{margin:5px 4px;display:inline-block;background-color:#f4f4f4;border:1px solid #ddd;padding:4px 10px;}
+.demo h3{margin:15px 0;color:#000;}
+.desc{width:100%;overflow:auto;margin: 25px auto;background-color:#fafafa;border-left:4px solid #72B332;}
+.desc h3{width:96%;margin: 0 auto;padding:20px 0;}
+pre{width:94%;margin:auto auto 10px;font-size:1.1em;}
+
+/*------------------- 鍗庝附鍒嗗壊绾� -----------------------*/
+.mr10{margin-right:10px;}
+.fl{float:left;}
+#HBox{width:300px;height:270px;margin:0 auto;box-shadow:1px 1px 5px #333;-webkit-box-shadow:1px 1px 5px #333;display:none;background-color:#ffffff;position:fixed;top:50%;left:50%;margin:-120px 0 0 -150px;z-index:100000;}
+.list{padding:25px 0;}
+.list li{width:90%;margin:10px auto auto;overflow: hidden;}
+.list li strong{width:30%;float:left;display:inline-block;margin-right:10px;text-align: right; font-size: 15px;}
+.list .fl{width:62%;}
+.ipt{width:100%;text-indent:5px;border:1px solid #ccc;padding:5px 0;box-shadow:0 0 3px #ddd inset;-webkit-box-shadow:0 0 3px #ddd inset;}
+.ipt:focus{border-color:#66afe9;box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 6px rgba(102, 175, 233, 0.6);-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 6px rgba(102, 175, 233, 0.6);}
+.submitBtn{width:20%;height:32px;line-height:30px;cursor:pointer;margin-top:10px; margin-left:40%;display:inline-block;text-align:center;background-color:#428bca;color:#fff;padding:0;}
+.submitBtn:hover,.submitBtn:disabled{opacity: .8;-webkit-opacity: .8;}

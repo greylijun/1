@@ -1,0 +1,420 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/** 清除内外边距 **/
+body, h1, h2, h3, h4, h5, h6, hr, p,
+blockquote,   /* structural elements 结构元素 */
+dl, dt, dd, ul, ol, li, /* list elements 列表元素 */
+pre, /* text formatting elements 文本格式元素 */
+form, fieldset, legend, button, input, textarea, /* form elements 表单元素 */
+th, td, /* table elements 表格元素 */
+img/* img elements 图片元素 */{
+    border: medium none;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    font-size: 16px;
+    cursor: default;
+}
+/** 设置默认字体 **/
+body,button, input, select, textarea {
+    font: 12px/1.5 "微软雅黑",'Times New Roman',tahoma, Srial, helvetica, sans-serif; }
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    color: #666;
+}
+em{font-style:normal;}
+/** 重置列表元素 **/
+ul, ol,{ list-style: none; }
+/** 重置超链接元素 **/
+a,a:visited{
+    text-decoration: none;
+    outline:none;
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+/** 重置图片元素 **/
+img{ border:0px;}
+/** 重置表格元素 **/
+table { border-collapse: collapse; border-spacing: 0; }
+.bg{ background: #eeeeee;  width: 100%;height: 1030px; overflow: hidden; min-width: 1200px;}
+
+/** 导航 **/
+header { width: 100%; height: 150px; background: #ffffff;overflow: hidden;}
+header label{ width: 100%;border-bottom: 5px solid #3e454c; height: 50px; display: block; background: #eeeeee;}
+header label p:first-child{ font-size:30px; float: left; font-weight: bold;color: #5e5552; font-family: "宋体"; line-height: 50px;}
+header label p:first-child img{ width:50px; float: left; margin-left:30px;}
+header label .dropdown{ width:120px; height:50px; float:right; text-align: center;}
+header label .dropdown a{ font-size:17px; line-height:50px;cursor: pointer;}
+header label .dropdown a:hover{ color:#2185c5}
+header label .dropdown .submenu{ z-index: 10000; background:#eaf4fb; position: absolute; width:120px; height:30px; text-align: center;box-shadow: 0px 8px 5px #ccc;}
+header label .dropdown .submenu ul li a{ font-size:14px; line-height: 30px; color:#000;}
+header label .dropdown .submenu ul li a:hover{color:#000;}
+header label>a{ width:100px; display: block; text-align: center; float: right; height: 50px; line-height:50px; color:#000; font-size:17px;}
+header label>a:hover{ color:#000;}
+header nav{height: 95px; width: 100%;}
+header nav ul{width: 98%; float: right;height: 100%; margin:0 1%;}
+header nav ul li{ width:12.5%; float: left; height: 100%;}
+header nav ul li a{ font-size:20px; color:#777777; line-height: 95px; display: block; width:100%; height: 100%; text-align: center; font-weight: normal;}
+header nav ul li a:hover{ background:#2185c5; color:#ffffff;}
+header nav ul li a.active{background:#2185c5; color:#ffffff;}
+
+/** 正文 **/
+main{width: 100%; height: 700px; margin: 0; overflow: hidden; display: block;}
+.exchange_div{ width: 100%;height: 650px; margin: 10px auto; overflow: hidden;}
+.content{ width: 98%; margin: 10px auto; height: 600px; background: #fff;}
+
+/** 按钮 **/
+.btn{ color:#fff; background:#15497e;padding: 5px 17px; float: left; cursor: pointer; font-size: 13px; border-radius: 2px;}
+.btn:active{ border: 1px solid #2185c5;}
+
+/** 二级菜单 **/
+.menu{ width: 98%; height:55px; background: #3e454c; margin: 0 auto; }
+.menu ul{ width: 100%; height: 50px;}
+.menu ul li { float: left; width: 25%; height: 50px;border-bottom: 5px solid #2185c5;display: block;color:#ccf2ff; font-size:18px; font-weight: bold;text-align: center; line-height: 50px; cursor: pointer;}
+.menu ul li a{color:#ccf2ff; width: 100%; height: 53px; display: block;}
+.menu ul li.on a::after{ position: absolute; margin-left: -42px; width: 0;top:200px; height: 0; border:  solid transparent; border-width: 5px; border-top-color:#3e454c; content: ''; pointer-events: none;}
+
+
+/** 深色菜单栏 **/
+.menu_bar{ height: 30px; width: 100%; background: #3b3e40; color:#ffffff; font-weight: bold; font-size: 16px;line-height: 30px;letter-spacing: 1px; }
+.menu_bar img{ float: left; margin: 0 10px;}
+.menu_bar ul{ width: 80%; height: 100%; margin: 0 auto;}
+.menu_bar ul li{ float: left; width:16.6666%; text-align: center; height: 100%;}
+.menu_bar ul li a{ display: block; height:90%;width: 50%; cursor: pointer; margin: 0 auto;}
+.menu_bar ul li a.on{border-bottom: 3px solid #f39800; background: #3a3d3f;}
+.menu_bar .right{ float: right; width: 200px; text-align: right;}
+.menu_bar .right li{ width: 50%;}
+.menu_bar .right li a{ width: 100%;}
+.menu_bar .right li a:hover{ color: #edab41;}
+
+/** 菜单栏 **/
+.bar{width:98%; height: 30px; background: #fff;margin:0px auto; line-height: 30px;}
+.bar p{  text-indent: 50px; width: 50%;height:30px; float: left;}
+.bar p a{ font-size: 17px; background: url("../image/bar_bg.png") no-repeat right center; display: block; float: left; color:#82accf; text-align: center; cursor: pointer; height: 30px; text-indent: 0; width: 150px; margin-right: 20px;}
+.bar ul{width:20%; float: right; height: 30px;}
+.bar ul li{ float: right; margin-right: 5%; width: 100px; height: 30px;}
+.bar ul li a{ color:#6496be; cursor: pointer; display: block; width: 100%; height: 28px; text-align: center; line-height: 25px;}
+.bar ul li.on a{ background:#535353; color:#fff;}
+.bar ul li.on{ border-bottom: 1px solid #6496be;}
+
+/** 底部 **/
+footer{ width: 99%; margin: 20px auto 0 auto; height: 160px; overflow: hidden;}
+footer .friend_link{width:100%; height:80px; background: #3e454c; padding: 10px 0;}
+footer .friend_link p{ text-indent: 50px; color:#acaeb0; font-size:17px;}
+footer .friend_link table{ width:98%; margin: 0 auto;}
+footer .friend_link table tr td{ text-align: center;}
+footer .friend_link table tr a{ color:#acaeb0; font-size: 15px; cursor: pointer;}
+footer .copyright{ width: 100%; height: 60px; background: #2185c5;}
+footer .copyright p { display: block; width: 100%; text-align: center; font-size:15px; line-height: 30px; color:#acdaf1;}
+
+/** 总耗与单耗 **/
+.main2{width:100%;height: 350px; margin: 10px 0; float: right;background: #fff; background-size: 100% auto;}
+.main3{width:31%;height: 220px; margin: 10px 0; float: left;background: #fff;}
+.main3 ul{ width: 100%; height: 80%; margin: 5% auto;}
+.main3 ul li{width: 50%; float: left; height: 50px; line-height: 50px;font-size: 16px; font-weight: bold;}
+.main3 ul li:nth-child(2n+1){ text-align: right;}
+.main3 ul li input{ color:#ff6060; font-size: 17px; font-weight: bold;width: 50%; text-indent: 20px; text-align: center;}
+.main4{width:68%;height: 220px; margin: 10px 0; float: right;background: #fff;}
+.table{width: 100%;border-top: 3px solid #eae0d0; margin-top: 20px;}
+.table table{width: 98%;margin: 0 auto;}
+.table table tr td{ text-align: center; font-size: 14px;}
+.table table tr:nth-child(2n+1){background: #dddddd;}
+.table table tr:nth-child(2n+1) input{background: #dddddd;}
+.table table>tbody:first-child tr:first-child{ background: #999999; height: 30px;}
+.table table tr td select{ font-size: 15px; width: 50%;}
+.table table tr td input{ width: 100%;height: 100%; border: none; text-align: center; font-size: 15px;}
+.table table tr td a:hover{ color:#74a0c4; cursor: pointer;}
+.read_data{display: block; width: 50%; margin: 0 auto; height: 50px; line-height: 50px;}
+.read_data p { float: left; display: block; width:80px;height: 50px;}
+.read_data input{ float: left; width: 50%; height: 30px; text-align: center; line-height: 30px;margin-top: 10px; outline: none; font-size: 17px; color: #ff0000; text-indent: 3%;}
+
+/** 平台通知 **/
+#focus_Box{position:relative;width:1130px;height:308px;margin:20px auto;}
+#focus_Box ul{position:relative;width:1130px;height:308px}
+#focus_Box li{z-index:0;position:absolute; width:0px;background:#787878;height:0px;top:146px;cursor:pointer;left:877px;border-radius:4px;}
+#focus_Box li img{width:100%;background:url(../image/loading.gif) no-repeat center 50%;height:100%;vertical-align:top}
+#focus_Box li p{position:absolute;left:0;bottom:0px;width:100%;height:40px;line-height:40px;background:url(../image/float-bg.png) repeat;text-indent:8px;color:#fff;}
+#focus_Box li p span{display:inline-block;width:70%;height:40px;overflow:hidden;}
+#focus_Box .prev,#focus_Box .next{display:block;z-index:100;overflow:hidden;cursor:pointer;position:absolute;width:52px;height:52px;top:131px;}
+#focus_Box .prev{background:url(../image/btn.png) left bottom no-repeat;left:0px}
+#focus_Box .next{background:url(../image/btn.png) right bottom no-repeat;right:0px}
+#focus_Box .prev:hover{background-position:left top;}
+#focus_Box .next:hover{background-position:right top;}
+#focus_Box a.imgs-scroll-btn{display:block;position:absolute;z-index:110;top:7px;right:15px;width:51px;height:23px;overflow:hidden;text-indent:-999px;}
+.tab{ width: 80%;height: 550px; margin: 0px auto;}
+.tab tr:nth-child(2n+1){ background:#f6f6f6; border-top: 1px solid #f5e3c5;}
+.tab tr td:first-child{width: 80%; text-align: left; text-indent: 2%;}
+.tab tr:hover{ color:#709dc1;}
+.tab tr td a{ color:#000;}
+.tab tr td a:hover{ color:#709dc1;}
+.page{ width: 30%; height: 30px; margin: 0 auto; margin-top: 10px; text-align: center; overflow: hidden;}
+.page a{color:#709dc1; margin-right: 10px; font-size: 14px; cursor: pointer;}
+.page span{ float: left; width: 20px; display: block; text-align: left;}
+.page a.jp-current,.page a:hover,.page a.active{ color:#f00;}
+
+.inform{ width: 60%; height: 500px; margin: 0 auto;}
+.inform h1{ font-size: 17px; line-height: 2.5; text-align: center; }
+.inform h3{ font-size: 14px; line-height: 2.5; text-align: center; }
+.inform p{ font-size: 17px; line-height: 2; text-align: left; text-indent: 2em;}
+.inform span{ font-size: 14px; line-height: 2.5; text-align: right; display: block; width: 300px; height: 30px; float: right; }
+.anchorBL{ display: none;}
+/**  节能措施 **/
+.energy_saving_table1{ width: 75%; height:100px; margin: 10px auto; }
+.energy_saving_table1 tr{ height: 50px; text-align: center;}
+.energy_saving_table1 tr td p{ display: block; float: left; width: 30%; text-align: right; height: 30px; line-height: 30px;}
+.energy_saving_table1 tr td select{ float: left; width: 50%; height: 30px; border:none; background: #eeeeee; outline: none; font-size: 15px; text-indent: 10px;}
+.energy_saving_table1 tr:nth-child(2) td select{ width: 30%; margin-right: 15px;}
+.enter_show{ width: 100%; height:430px; border-top: 2px solid #ccc;}
+.enter_show table{ margin: 10px auto;}
+
+/** 分布图 **/
+.distribution_ul{ width: 90%;height:50px; margin: 0 auto;}
+.distribution_ul li{ float: left; width: 25%; text-align: left; line-height: 50px; font-size: 16px;}
+.distribution_ul li:first-child{ width: 20%;}
+.distribution_ul li:last-child{width: 30%;}
+.distribution_ul li p{ display: block; width: 65%; height: 50px; line-height: 50px; text-align: right; float: left; font-size: 16px;}
+.distribution_ul li input{ color:#ff0000; font-size: 16px; width: 25%; float: left; line-height: 50px; text-align: center;font-weight: bold; height: 50px;}
+.distribution_ul li select{width: 30%;height: 25px; font-size: 15px; outline: none; line-height: 25px;}
+.map{ width: 90%;height: 490px; background: #ccc; margin: 0 auto;}
+
+/** 能耗图 **/
+.area{width:80%; height: 51px; margin: 0 auto; overflow: hidden;}
+.area ul{ width: 100%; height: 50px;border-bottom: 1px solid #2185c5; }
+.area li{height:40px; float: left; border-bottom: 1px solid #2185c5; width: 8%; margin:10px 0.5% 0 0.5%;
+    background: -ms-linear-gradient(top, #f3f3f3,  #fff);        /* IE 10 */
+    background:-moz-linear-gradient(top,#f3f3f3,#fff);/*火狐*/
+    background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#f3f3f3), to(#fff));/*谷歌*/
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f3f3f3), to(#fff));      /* Safari 4-5, Chrome 1-9*/
+    background: -webkit-linear-gradient(top, #f3f3f3, #fff);   /*Safari5.1 Chrome 10+*/
+    background: -o-linear-gradient(top, #f3f3f3, #fff);  /*Opera 11.10+*/}
+.area li a{ display: block; height: 40px; width:100%; cursor: pointer; border: 1px solid #ccc; border-bottom: none; font-size: 17px; font-weight: bold; margin: 0 auto ; text-align: center; line-height: 40px; border-top-right-radius: 6px; border-top-left-radius: 6px;}
+.area li.active{  border-bottom: 1px solid #fff;}
+.area li.active a{border: 1px solid #2185c5; border-bottom: none;color:#73a3cb;}
+.area li a:hover{color:#73a3cb;}
+
+
+/** 用户分布 **/
+.user_statics{ height: 400px; width: 90%; margin: 10px auto;}
+.user_statics_table{ height: 155px;}
+
+/** 历史数据 **/
+.dq_div1{ width: 100%; height: 110px;}
+.dq_div1 .data_query_ul1{ width: 90%; height: 40px; line-height: 40px; margin: 0 auto; text-align: center;}
+.dq_div1 .data_query_ul1 p{color:#ff7676; float: left; width: 100px; height: 30px; line-height: 30px; font-weight: bold;}
+.dq_div1 .data_query_ul1 li{ float: left; width: 20%; height: 35px; line-height:40px;}
+.dq_div1 .data_query_ul1 li label{ width: 40%; float: left; text-align: right;}
+.dq_div1 .data_query_ul1 li select{ width: 40%; float: left; height: 25px; line-height: 30px; margin: 8px 10px; font-size: 15px; border-color:#3688c6; }
+.dq_div1 .data_query_ul1 li input{ margin: auto 5px;}
+.dq_div1 .data_query_ul2{ width: 90%; height: 30px; margin: 0 auto; line-height: 30px;}
+.dq_div1 .data_query_ul2 li{float: left; width: 20%; height: 30px;}
+.dq_div1 .data_query_ul2 li label{ width: 40%; float: left; text-align: right;}
+.dq_div1 .data_query_ul2 li input{ width: 40%; float: left; height: 25px; margin: 0px 10px; font-size: 15px; border: 1px solid #3688c6; text-indent: 3px;}
+.dq_div1 .data_query_ul2>li:nth-child(n+2){ display: none;}
+.dq_div1 .data_query_ul2>input{ width: 25px;}
+.dq_div1 .data_query_ul2 p{ color:#ff7676; float: left; width: 100px; height: 30px; line-height: 30px; font-weight: bold;}
+.dq_div2{ width: 55%; height: 200px; float: left;}
+.dq_div3{ width: 55%; height: 280px;  float: left;}
+.dq_div4{ width: 44%; height: 480px;  float: right;}
+.dq_div3 table{ width: 100%; text-align: center; height: 250px;}
+.dq_div3 table tr td{ border: 1px solid #ccc;}
+.dq_div3 table tr:first-child{ background:#999; }
+
+/**  数据分析 **/
+.dq2_div3{ width: 100%; height: 280px;}
+
+/** 单位查询首页 **/
+.unit_query{ width: 80%; height: 100%; margin:0 auto; padding: 40px 0;}
+.unit_query_p{ display: block; width: 50%; text-align: center; margin: 0 auto 40px auto; height: 50px; }
+.unit_query_p p{ float: left; display: block; font-size: 17px; width: 120px;}
+.unit_query_p input.unit_name{ width: 50%; border: 1px solid #ccc; height: 26px; float: left; margin: 0 5px; font-size: 15px; outline: none; text-indent: 5px;}
+.unit_query_p input:last-child{ margin: 2px 10px;}
+.unit_query table{ width: 80%; height: 82px; border: 1px solid #ccc; margin: 10px auto 0 auto; }
+.unit_query table tr td{ font-size: 15px; text-align: left; text-indent: 10px; line-height: 40px; height: 40px;}
+.unit_query table tr td p{ float: left;}
+.unit_query table tr td input{ height: 30px; text-align: center; font-weight: bold; line-height: 40px; float: left; font-size: 15px; color:#ff3737; width: 20%;}
+.unit_query table tr td a{ color:#237db7; cursor: pointer;}
+.unit_query table tr td a:hover{ color:#edab41;}
+.unit_query table tr td img{ height: 80px;float: right;}
+ul#possibility{ position: relative; left: 125px; width: 50%; border: 1px solid #ccc; border-top: none; overflow: hidden; background: #fff;}
+ul#possibility li{ width: 100%;text-align: left;text-indent: 5px; height:24px; }
+ul#possibility li:hover{ background: #f9f9f9;}
+ul#possibility li a{ font-size: 14px; color:#000; display: block; width: 100%; height: 100%;}
+
+
+
+/** 单位简介 **/
+.unit_intro{ background: #eeeeee; width: 100%; height: 100%;}
+.unit_intro .ui_div1{width: 100%; height: 350px; background: #fff; margin: 0 0 10px 0;}
+.unit_intro .ui_div1 .left{ width: 40%; float: left; height:350px; overflow: hidden;}
+.unit_intro .ui_div1 img{ border: 2px solid #f7f7f7; padding: 15px; margin: 15px 0; float: right; width: 434px; height: 283px;  }
+.unit_intro #about_enter{ width: 65%; float: right; height:140px; background: #fff; background-size: 2%; padding: 50px 5% ;}
+.unit_intro #about_enter p{ text-indent: 2em; line-height: 1.7;}
+.unit_intro .ui_div2{width: 60%; height: 350px; background: #fff; float: left;overflow: hidden;background: url("../image/unit_bg.png") no-repeat left top #fff;  }
+.unit_intro .ui_div2 table{ width: 80%; height: 300px; margin: 25px auto;}
+.unit_intro .ui_div2 table tr td p{float: left; width: 40%; text-align: right; line-height: 35px; font-size: 14px;}
+.unit_intro .ui_div3{width: 24%; height: 240px; float: left; background: #fff; }
+.unit_intro .ui_div3 p { display: block; width: 80%;  text-align: right;  height: 50px;  line-height: 50px;  font-size: 17px;  font-weight: normal;}
+.unit_intro .ui_div3 p input {  color: #ff3737;  font-size: 17px;  font-weight: bold;  text-align: right;  margin-right: 20px; width: 80%;  float: left;  height: 50px;  line-height: 50px;  }
+.unit_intro .ui_div2 table tr td input{ float: left; width: 50%; font-size: 14px; border: 1px solid #ccc; background:#f9f9f9; height: 30px; text-indent: 10px; outline: none;}
+
+/** 实时数据 **/
+.real_data{ width: 100%; height: 100%;}
+.real_data .rd_div1{ width: 55%; height:300px; float: left;}
+.real_data .rd_div2{ width: 55%; height:290px; float: left;}
+.real_data .rd_div3{ width: 44%; height:590px; float: right;}
+.rd_div2 table{ width: 100%; text-align: center; height: 265px;}
+
+/** 实时采集 **/
+.current_collect{width: 100%; height: 100%;}
+.current_collect .cc_div1{ width: 100%; height:310px;}
+.current_collect .cc_div1>label{display: block; width: 90%; height: 40px; margin: 10px auto; line-height: 40px;}
+.current_collect .cc_div1>label ul{ width: 80%; height: 40px;margin: 0 auto;}
+.current_collect .cc_div1>label ul li{ float: left;width: 33.3333%;}
+.current_collect .cc_div1>label ul li p{ display: block; float: left; width: 120px; text-align: right;}
+.current_collect .cc_div1>label ul li select{ height: 25px; line-height: 40px; width:80px;  font-size: 15px;}
+.current_collect .cc_div2{ width: 55%; height:280px; float: left;}
+.current_collect .cc_div3{ width: 44%; height:280px; float: right;}
+.cc_div2 table{ width: 100%; text-align: center; height: 254px;}
+.cc_div3 table{ width: 100%; text-align: center; height: 254px;}
+
+/** 数据录入 **/
+.data_entry{width: 100%; height: 100%;}
+.data_entry .de_div{width: 80%; height: 260px;background: #fff;margin: 10px auto;}
+.data_entry .bgc{height: 220px; width: 100%; background: #eeeeee;}
+.data_entry input.btn{ margin: 10px 50%; float: none;}
+.data_entry .de_div h1{display: block; width: 80%; line-height: 35px; margin:0 auto; font-size: 16px; color:#000;}
+.data_entry #de2 .de_div table{ width:80%; height:180px;margin: 0 auto; }
+.data_entry #de2  .de_div table tr td{ line-height: 30px;}
+.data_entry #de2  .de_div table tr td p{ float: left; display: block; width: 180px; text-align: right; font-size: 15px;}
+.data_entry #de2  .de_div table tr td input{ float: left; width: 35%; height: 30px; border: 1px solid #ccc;}
+.data_entry #de2  .de_div table tr:nth-child(3) td textarea{ width: 69%; resize: none; border: 1px solid #ccc;}
+.data_entry #de2  .de_div table tr td p label{ color:#ff0000;}
+
+#de1{height: 550px; width: 80%; margin: 0 auto;}
+#de1 label{ width: 400px; float: right; text-align: right; margin-top: 10px; height: 25px;}
+#de1 label a.btn{float: right; margin: 0;}
+#de1 label p{float: left;}
+#de1 label input{ float: left; margin-right: 30px;}
+#de1 table{ width:49.5%; height:440px; float: left;margin-top: 45px; }
+#de1 table tr td{ border:2px solid #ccc; text-align: left; padding-left: 1%; background: #fffbf6; font-size: 13px;}
+#de1 table tr td input{ background: #fffbf6;height:20px ; outline: none; width:60%; }
+#de1 table tr:first-child td{
+    background: -ms-linear-gradient(top, #f0b255,  #fedeac);        /* IE 10 */
+    background:-moz-linear-gradient(top,#f0b255,#fedeac);/*火狐*/
+    background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#f0b255), to(#fedeac));/*谷歌*/
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f0b255), to(#fedeac));      /* Safari 4-5, Chrome 1-9*/
+    background: -webkit-linear-gradient(top, #f0b255, #fedeac);   /*Safari5.1 Chrome 10+*/
+    background: -o-linear-gradient(top, #f0b255, #fedeac);  /*Opera 11.10+*/
+}
+#de1 table:last-child{margin-top: 10px;  margin-left: 1%;}
+
+/** 日志查询 **/
+.equip_query{ width: 100%;height: 100%;}
+.equip_query .div1{ width: 100%; margin: 0px auto; padding-top: 20px; height: 110px; overflow: hidden;}
+.equip_query .div1 label{width:300px; height: 40px;display: block; margin: 0px auto; text-align: center; font-size: 18px; font-weight: bold;}
+.equip_query .div1 label input{ width: 120px; height: 30px; font-size: 16px; font-weight: bold; text-align: center; margin-top: 5px; margin-left: -10px; }
+.equip_query .div1>ul{ height: 40px;margin: 0 auto; overflow: hidden;}
+.equip_query .div1>ul li{ float: left; width: 195px; height: 40px; line-height: 40px;}
+.equip_query .div1>ul li p{ float: left; width: 40%; font-size: 14px; line-height: 35px; text-align: right;}
+.equip_query .div1>ul li select{ width: 55%; float: left; height: 25px; line-height:25px; display: block; margin-top: 5px;border:1px solid #cee3ef; font-size: 13px;}
+.equip_query .div1>ul li input{ padding:0; font-size:14px;width: 55%; float: left; height: 25px; line-height: 25px; display: block; margin-top: 5px; border:1px solid #cee3ef; text-indent: 2px;}
+.equip_query .div1>ul input.btn{ width: 30px; float: none; margin-left: 48%;}
+.equip_query .div1>ul li #con{float: left; width: 60%; height: 30px; overflow: hidden; display: block;}
+#point_number { width:60%;height: 30px;}
+#point_number li{ display: block; width: 100%; height: 30px; text-align: left; color:#2185c5;}
+
+
+/** 限额填报 **/
+.energy_consum{ width: 100%; height: 100%; background: #eee;}
+.energy_consum .div1{ width: 25%; float: left; height: 380px; background:url('../image/ec1.png') no-repeat top left #fff;}
+.energy_consum .div1 p{display: block; margin: 100px auto;width: 50%; height: 280px;}
+.energy_consum .div2{ width: 74%; float: right; height: 380px; background: #fff; }
+.energy_consum .div2 table.table tr td:first-child input{ width: 70%;border: 1px solid #ccc;height: 25px; margin: 2px auto; background: #fff;}
+.energy_consum .div2 table.table tr td:nth-child(4) input{ width: 50px;border: 1px solid #ccc;height: 25px; margin: 2px 5px; background: #fff;}
+.energy_consum .div2 table.table tr td:last-child input{ width: 70px; float: none; margin: 0 auto; height: 25px; padding: 0; background: #15497e; font-size: 14px;}
+.energy_consum .div3{ width: 35%; float: left; height: 200px; background:url('../image/ec2.png') no-repeat top left #fff; margin-top: 10px;}
+.energy_consum .div3 table{ width: 80%; height: 120px; margin: 50px auto;}
+.energy_consum .div3 table tr td input{ width: 100px; border:1px solid #ccc; height: 25px;}
+.energy_consum .div4{ width: 64%; float: right; height: 200px; background:url('../image/ec3.png') no-repeat top left #fff; margin-top: 10px;}
+.energy_consum .div4 table{ width: 80%; height: 60px; margin: 60px auto 20px auto;}
+.energy_consum .div4 table tr td input{ width: 100px; border:1px solid #ccc; height: 25px; text-indent: 2px;}
+.energy_consum .div4 input.btn{ margin-left: 48%;}
+
+/** 联系我们 **/
+.contact_us{ width: 100%; height: 100%; margin: 0 auto; background: #eee;}
+.contact_us .div1{ width: 64%; height: 450px; float: left; background: #fff;}
+.contact_us .div2{ width: 35%; height: 450px; float: right;background: #fff; }
+.contact_us .div2 ul{ width: 100%; height: 350px; margin: 70px 0;}
+.contact_us .div2 ul li{ height:50px;  width: 80%; margin:  0 auto;}
+.contact_us .div2 ul li a{ font-size: 16px; cursor: pointer; color:#666}
+.contact_us .div2 ul li a:hover{ color:#f0b255;}
+.contact_us .div2 ul li a span{ display: block; float: left; background: url("../image/cu1.png") no-repeat center center; width: 10px; height: 25px; margin-right: 10px;}
+.contact_us .div3{ width: 100%; height: 150px;background: url("../image/cu2.png") no-repeat bottom center #fff; margin-top: 10px; }
+
+/** 登陆 **/
+.login{ width: 100%; height: 720px; background: url("../image/login.png") no-repeat top left; background-size: 100% 100%; padding-top: 270px;}
+.login .enter{ width: 527px; height: 232px; margin: 0 auto; background: url("../image/login_user.png") no-repeat top left; padding-top: 80px; border: 1px solid #ccc; border-radius: 10px;}
+.login .enter ul{width:80%; height: 170px; margin: 0px auto; overflow: hidden}
+.login .enter ul li{ width:90%; height: 26px; float: left; }
+.login .enter ul li p{ float: left; width:120px; text-align: right;display: block; height: 25px; font-size: 15px; line-height: 25px;}
+.login .enter ul li input{ width: 200px; height: 20px; margin: 2px 0; border: 1px solid #2b4558; float: left; font-size: 13px; text-indent: 5px;}
+.login .enter ul li select{ width: 200px; height: 20px; margin: 2px 0; border: 1px solid #2b4558; float: left; font-size: 13px; text-indent: 5px;}
+.login .enter ul li:nth-child(5) input{ width: 80px;}
+
+.login .enter ul li:nth-child(6) p{ float: left; font-size: 12px;  display: block; height: 30px; line-height: 30px;  }
+.login .enter ul li:last-child input{ width: 15px; border: none;}
+.login .enter ul li:last-child label{ font-size: 15px; line-height: 20px; display: block; height: 30px; margin: 0 3px; float: left;}
+.login .enter ul li:last-child a{ cursor:pointer;float: left; font-size: 15px; color:#ff0000; display: block; height: 25px; line-height: 20px; width: 100px; margin-left: 30px;}
+.login .enter>label{ width: 100%; height: 50px; display: block;}
+.login .enter>label .btn_login{display: block; text-align: center; line-height: 35px;margin: 0 auto; cursor: pointer; width: 102px; height: 35px; background: url("../image/input.png") repeat-x; font-size: 16px; color: #073c6e; font-weight: bold; border: 1px solid #7ac0e1; border-radius: 6px;}
+.login .enter>label .btn_login:active{ border-width: 2px;}
+.login .enter>label input:first-child{ margin: 0 30px 0 150px;}
+
+/** 注册 **/
+.register{ height: 650px;background: url("../image/register_bg.png") no-repeat top center #fff; background-size:  auto 100%; padding-top: 250px; margin-top: 30px; min-width: 1600px;}
+.register table{ width: 46%; height: 300px; margin: 0 auto; text-align: center;}
+.register table tr td{font-size: 16px; text-align: left; width:30%;}
+.register table tr td:nth-child(2n+1){ width: 20%;}
+.register table tr td span{ color: #ff0000; display: block; float: left; width: 15px; height: 30px; line-height: 2;}
+.register table tr td input{ width: 80%; float: left; border: 1px solid #c9c9c9; height: 25px; text-indent: 2px;}
+.register table tr td label{ float: left;font-size: 12px; display: block; width: 100%; color: #999;}
+.register table tr td select{ width: 200px; float: left; border: 1px solid #c9c9c9; height: 25px; text-indent: 2px; font-size: 15px;}
+.register table tr:nth-child(7) td:last-child input{ display: block; cursor: pointer; border: none;}
+.register table tr td a img{ float: left; margin: 2px 5px;}
+.register table tr td textarea{ width: 190px; height: 100px; border: 1px solid #ccc; resize: none;  padding: 5px;}
+.register > label{ width: 50%; height: 30px; display: block; margin:  0 auto; text-align: center; line-height: 30px;}
+.register > label input{ float: left; margin-left: 42%; margin-top: 8px;}
+.register > label p{ display: block; width: 150px; float: left; height: 30px; line-height: 30px;}
+.register > label a{ display: block; width: 100%; color: #ff0000; font-size: 15px; cursor: pointer;  text-align: center;}
+
+/** 免责说明 **/
+#read{ height:920px; width: 100%;  background-color: #fff; background: url("../image/register.png") no-repeat center bottom;}
+#read .detail{width:60%;height: 400px;margin: 0px auto; background: #fff; padding: 5%; min-width: 1000px;}
+#read .detail h1{ text-align: center; font-size: 25px; color:#073c6e;  font-weight: bold; line-height:100px;}
+#read .detail h2{ font-size: 20px; font-weight: bold; line-height: 2.5; color:#000;}
+#read .detail p{ font-size: 18px; line-height: 2;}
+
+/** 忘记密码 **/
+.password{height: 800px; width: 100%; background: url("../image/password_bg.png") no-repeat bottom center #fff; background-size:  50% 100%; margin-top: 30px; padding-top: 5px; min-width: 1600px; }
+.password ul{ width: 40%; height: 50px; margin:0px auto;}
+.password ul li{width: 50%; float: left; height: 100%; text-align: center; line-height: 50px;}
+.password ul li a{ display: block; width: 100%; height: 100%; font-size: 20px; color:#000; font-weight: normal;}
+.password ul li a.active{font-weight: bold;}
+.password table{ height: 300px; width: 400px; margin: 80px auto;}
+.password table tr td{ font-size: 17px;}
+.password table tr td input{ width: 200px;height:30px; border: 1px solid #ccc;text-indent: 3px; font-size: 15px; }
+
+/** 历史意见 **/
+.history{ width: 100%; height: 99%; margin: 0 auto; padding-top: 1%;}
+.history ul{ width: 80%;height: 90px; margin: 0px auto;}
+.history ul li{ width: 100%; height: 30px; line-height: 30px; font-size: 15px; text-align: left; text-indent: 15%;}
+.history ul:nth-child(2n+2) li:last-child{ padding:0 15%; width:70%;text-indent: 2em;}
+.history ul:nth-child(2n+1){background:#f6f6f6; border-top: 3px solid #f5e3c5;}
+.history ul:nth-child(2n+1) li:first-child{ color:#2085c5; font-style: italic; text-indent: 10%;}
+.history ul:nth-child(2n+2) li:first-child{ color:#ff6767; font-style: italic; text-indent: 10%;}
+
+

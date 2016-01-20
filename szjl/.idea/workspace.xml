@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="8447a49f-59a6-4934-bfa5-e1011bb44d2d" name="Default" comment="" />
+    <ignored path="szjl.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="szjl" />
+  </component>
+  <component name="FileEditorManager">
+<<<<<<< .mine
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data_query.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user/data_query/data_query.js">
+=======
+    <leaf>
+      <file leaf-file-name="user.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style/user.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11147903" vertical-offset="4913" max-vertical-offset="7521">
+              <caret line="218" column="44" selection-start-line="218" selection-start-column="44" selection-end-line="218" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.34375" vertical-offset="897" max-vertical-offset="5198">
+              <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4055" max-vertical-offset="10166">
+              <caret line="193" column="24" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+              <folding>
+                <marker date="1449467383238" expanded="true" signature="28910:29147" placeholder="{...}" />
+                <marker date="1449467383238" expanded="true" signature="29064:29071" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/government/main_page/rules.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.71875" vertical-offset="1173" max-vertical-offset="2921">
+              <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saving_actions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/government/main_page/saving_actions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.34375" vertical-offset="1528" max-vertical-offset="5382">
+              <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="102" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/government/unit_query/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.625" vertical-offset="1219" max-vertical-offset="2461">
+              <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_entry.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/data_entry.php">
+>>>>>>> .r235
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state vertical-scroll-proportion="0.66630316">
+              <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+=======
+            <state vertical-scroll-proportion="-20.125" vertical-offset="828" max-vertical-offset="8717">
+              <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
+>>>>>>> .r235
+              <folding>
+<<<<<<< .mine
+                <element signature="e#93#208#0" expanded="false" />
+                <element signature="e#249#364#0" expanded="false" />
+                <element signature="e#403#821#0" expanded="false" />
+                <element signature="e#855#1273#0" expanded="false" />
+                <element signature="e#1306#1724#0" expanded="false" />
+                <element signature="e#2205#2623#0" expanded="false" />
+                <element signature="e#2655#3073#0" expanded="false" />
+                <element signature="e#3128#3195#0" expanded="false" />
+                <element signature="e#3235#3302#0" expanded="false" />
+                <element signature="e#3358#3440#0" expanded="false" />
+                <element signature="e#3480#3562#0" expanded="false" />
+                <element signature="e#3763#4103#0" expanded="false" />
+                <element signature="e#3919#3983#0" expanded="false" />
+                <element signature="n#!!block;n#QueryYear#0" expanded="false" />
+                <element signature="n#!!block;n#QuerySeason#0" expanded="false" />
+                <element signature="n#!!block;n#QueryMonth#0" expanded="false" />
+                <element signature="n#!!block;n#ResourceConsumptionColumn#0" expanded="false" />
+                <marker date="1449472491498" expanded="true" signature="6924:6938" placeholder="..." />
+                <marker date="1449472491498" expanded="true" signature="7009:7039" placeholder="..." />
+                <marker date="1449472491498" expanded="true" signature="7089:7098" placeholder="..." />
+=======
+                <element signature="n#style#0;n#div#1;n#label#0;n#div#1;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> .r235
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< .mine
+      <file leaf-file-name="HistoryQueryMonth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQueryMonth.php">
+=======
+      <file leaf-file-name="data_query.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/data_query.js">
+>>>>>>> .r235
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+            <state vertical-scroll-proportion="-0.962963">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <marker date="1448852757883" expanded="true" signature="4145:4159" placeholder="..." />
+                <marker date="1448852757883" expanded="true" signature="4230:4260" placeholder="..." />
+                <marker date="1448852757883" expanded="true" signature="4314:4323" placeholder="..." />
+              </folding>
+>>>>>>> .r235
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HistoryQuerySeason.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQuerySeason.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.296297">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HistoryQueryYear.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQueryYear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.62963">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#94#0#PHP" expanded="true" />
+                <marker date="1449472620453" expanded="true" signature="376:504" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="376:513" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="376:528" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="376:537" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="376:555" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="907:914" placeholder="select a.``,..." />
+                <marker date="1449472620453" expanded="true" signature="907:1149" placeholder="select sum(a..t_daily_data..." />
+                <marker date="1449472620453" expanded="true" signature="1472:1700" placeholder="select b.`re..t_daily_data..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadDataQuery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/LoadDataQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.0">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <marker date="1449472680097" expanded="true" signature="197:321" placeholder="select `ener..t_daily_data..." />
+                <marker date="1449472680097" expanded="true" signature="197:376" placeholder="select `ener..t_daily_data..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/data_query/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.333333">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< .mine
+        <option value="$PROJECT_DIR$/user/equipment_query/index.php" />
+        <option value="$PROJECT_DIR$/government/equipment_query/index.php" />
+        <option value="$PROJECT_DIR$/admin/view_communication/index.php" />
+        <option value="$PROJECT_DIR$/admin/view_communication/history/index.php" />
+        <option value="$PROJECT_DIR$/admin/data_revise/revise_record/index.php" />
+        <option value="$PROJECT_DIR$/admin/site_operation/collect_model/index.php" />
+        <option value="$PROJECT_DIR$/admin/information_release/inform.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/consumption_check.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/data_check.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/consumption_check/index.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/register_check.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/index.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/register_check/register_check.js" />
+        <option value="$PROJECT_DIR$/register/index.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/data_check/data_check.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/data_check/data_check.js" />
+=======
+>>>>>>> .r235
+        <option value="$PROJECT_DIR$/admin/information_check/consumption_check/consumption_check.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/consumption_check/consumption_check.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/user/main_page/main_page.js" />
+        <option value="$PROJECT_DIR$/admin/site_operation/index.php" />
+        <option value="$PROJECT_DIR$/government/main_page/inform.php" />
+        <option value="$PROJECT_DIR$/government/main_page/main_page.js" />
+        <option value="$PROJECT_DIR$/admin/information_release/information_release.js" />
+        <option value="$PROJECT_DIR$/admin/information_release/index.php" />
+        <option value="$PROJECT_DIR$/user/main_page/inform.js" />
+        <option value="$PROJECT_DIR$/user/main_page/inform.php" />
+        <option value="$PROJECT_DIR$/government/unit_query/current_collect/current_collect.js" />
+        <option value="$PROJECT_DIR$/government/unit_query/current_collect/current_collect.php" />
+        <option value="$PROJECT_DIR$/user/unit_query/current_collect/current_collect.css" />
+        <option value="$PROJECT_DIR$/user/unit_query/current_collect/current_collect.js" />
+        <option value="$PROJECT_DIR$/user/unit_query/current_collect/current_collect.php" />
+        <option value="$PROJECT_DIR$/user/equipment_query/detail_query/detail_query.php" />
+        <option value="$PROJECT_DIR$/government/data_query/data_analysis.php" />
+        <option value="$PROJECT_DIR$/user/data_query/data_analysis.php" />
+        <option value="$PROJECT_DIR$/user/communication/index.php" />
+        <option value="$PROJECT_DIR$/user/energy_consumption/consumption_query.php" />
+        <option value="$PROJECT_DIR$/user/main_page/saving_actions.php" />
+        <option value="$PROJECT_DIR$/admin/information_check/register_check/register_check.php" />
+        <option value="$PROJECT_DIR$/admin/data_revise/index.php" />
+        <option value="$PROJECT_DIR$/style/sweet-alert.css" />
+        <option value="$PROJECT_DIR$/style/admin.css" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Suzhou City special first major pollutants emissions.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/A first Chinese VERs CCER transaction price 16 yuan.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Building low-carbon cities, promote industrial symbiosis.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/China issued its first environmental information disclosure.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/China to deploy national carbon trading market.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Enhance corporate environmental performance Opportunities .html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Environmental Salon III Application and Practice Symposium TSC.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Jiangsu Province, Suzhou emissions trading for the first time in the auction.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Jiangsu Province, the first half of 2014 was successfully held .html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Sharon second phase focused industrial organic waste prevention.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Yangtze carbon asset development and management seminar.html" />
+        <option value="$PROJECT_DIR$/admin/information_release/notices/Zhangjiagang City, focused enterprises (thing) business unit.html" />
+        <option value="$PROJECT_DIR$/government/data_query/index.php" />
+        <option value="$PROJECT_DIR$/government/unit_query/real_data/real_data.php" />
+        <option value="$PROJECT_DIR$/government/unit_query/real_data/real_data.js" />
+        <option value="$PROJECT_DIR$/user/unit_query/real_data/real_data.js" />
+        <option value="$PROJECT_DIR$/user/unit_query/real_data/real_data.php" />
+        <option value="$PROJECT_DIR$/user/data_query/index.php" />
+        <option value="$PROJECT_DIR$/user/data_query/data_query.js" />
+        <option value="$PROJECT_DIR$/style/style.css" />
+        <option value="$PROJECT_DIR$/government/main_page/rules.php" />
+        <option value="$PROJECT_DIR$/government/main_page/saving_actions.php" />
+        <option value="$PROJECT_DIR$/government/unit_query/index.php" />
+        <option value="$PROJECT_DIR$/user/unit_query/data_entry/data_entry.php" />
+        <option value="$PROJECT_DIR$/style/user.css" />
+        <option value="$PROJECT_DIR$/user/data_query/index.php" />
+        <option value="$PROJECT_DIR$/user/data_query/data_query.js" />
+        <option value="$PROJECT_DIR$/user/data_query/HistoryQueryMonth.php" />
+        <option value="$PROJECT_DIR$/user/data_query/HistoryQuerySeason.php" />
+        <option value="$PROJECT_DIR$/user/data_query/HistoryQueryYear.php" />
+        <option value="$PROJECT_DIR$/user/data_query/LoadDataQuery.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_query" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+<<<<<<< .mine
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> .r235
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szjl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laydate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="project.scopes" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\szjl\admin\information_check\register_check" />
+      <recent name="D:\wamp\www\szjl\user" />
+      <recent name="D:\wamp\www\szjl\user\main_page" />
+      <recent name="D:\wamp\www\szjl\user\energy_consumption\ducoment" />
+      <recent name="D:\wamp\www\szjl\user\energy_consumption" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\szjl\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8447a49f-59a6-4934-bfa5-e1011bb44d2d" name="Default" comment="" />
+      <created>1446167056264</created>
+      <option name="number" value="Default" />
+      <updated>1446167056264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14352818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< .mine
+=======
+    <entry file="file://$PROJECT_DIR$/government/unit_query/current_collect/current_collect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27529925" vertical-offset="0" max-vertical-offset="919">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/unit_query/current_collect/current_collect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5139" max-vertical-offset="6049">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/current_collect/current_collect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27529925" vertical-offset="0" max-vertical-offset="919">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/current_collect/current_collect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5139" max-vertical-offset="6049">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/equipment_query/detail_query/detail_query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85569334" vertical-offset="575" max-vertical-offset="3979">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/energy_consumption/energy_consumption.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87306845" vertical-offset="2659" max-vertical-offset="3634">
+          <caret line="150" column="15" selection-start-line="150" selection-start-column="15" selection-end-line="150" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/data_query/data_analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2323" max-vertical-offset="5497">
+          <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="124" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/data_analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="4830">
+          <caret line="94" column="39" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> .r235
+    <entry file="file://$PROJECT_DIR$/government/communication/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="3.7368422">
+          <caret line="352" column="68" selection-start-line="352" selection-start-column="68" selection-end-line="352" selection-end-column="68" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3197">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/communication/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.740699">
+          <caret line="176" column="40" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="40" />
+=======
+        <state vertical-scroll-proportion="0.5445321" vertical-offset="1265" max-vertical-offset="2760">
+          <caret line="76" column="71" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="71" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/energy_consumption/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.32535365">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="3312">
+          <caret line="51" column="88" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="88" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/energy_consumption/consumption_query.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.59956473">
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="2415">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/main_page/saving_actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.58511835">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+=======
+        <state vertical-scroll-proportion="-23.40625" vertical-offset="3483" max-vertical-offset="5336">
+          <caret line="184" column="41" selection-start-line="184" selection-start-column="41" selection-end-line="184" selection-end-column="41" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/unit_query/unit_intro/unit_intro.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.27395716">
+          <caret line="204" column="64" selection-start-line="204" selection-start-column="64" selection-end-line="204" selection-end-column="64" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="1541" max-vertical-offset="3036">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="94" selection-end-column="26" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_check/register_check/register_check.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-64.6875">
+          <caret line="108" column="111" selection-start-line="108" selection-start-column="111" selection-end-line="108" selection-end-column="111" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="2862" max-vertical-offset="4439">
+          <caret line="139" column="102" selection-start-line="139" selection-start-column="102" selection-end-line="139" selection-end-column="102" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/data_revise/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-43.84375">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+=======
+        <state vertical-scroll-proportion="-14.0625" vertical-offset="2149" max-vertical-offset="7659">
+          <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/insert_energy_consumption.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-12.9375">
+          <caret line="147" column="22" selection-start-line="143" selection-start-column="16" selection-end-line="147" selection-end-column="22" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3887">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/energy_saving_show.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/energy_saving_select.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/energy_saving_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-9.125">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="989">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/energy_saving_finish_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/sweet-alert.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="7" selection-start-line="21" selection-start-column="4" selection-end-line="45" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="0.6006529" vertical-offset="345" max-vertical-offset="20263">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.5745375">
+          <caret line="116" column="3" selection-start-line="108" selection-start-column="0" selection-end-line="116" selection-end-column="3" />
+=======
+        <state vertical-scroll-proportion="-8.625" vertical-offset="0" max-vertical-offset="4278">
+          <caret line="12" column="12" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.27529925">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+=======
+        <state vertical-scroll-proportion="0.8984547" vertical-offset="3671" max-vertical-offset="4922">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/A first Chinese VERs CCER transaction price 16 yuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+=======
+        <state vertical-scroll-proportion="-19.40625" vertical-offset="299" max-vertical-offset="1955">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Building low-carbon cities, promote industrial symbiosis.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.27529925">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+=======
+        <state vertical-scroll-proportion="-14.375" vertical-offset="460" max-vertical-offset="1978">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/China issued its first environmental information disclosure.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+=======
+        <state vertical-scroll-proportion="-14.375" vertical-offset="460" max-vertical-offset="2001">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/China to deploy national carbon trading market.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.85569334">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+=======
+        <state vertical-scroll-proportion="-18.6875" vertical-offset="322" max-vertical-offset="2024">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Enhance corporate environmental performance Opportunities .html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.87306845">
+          <caret line="150" column="15" selection-start-line="150" selection-start-column="15" selection-end-line="150" selection-end-column="15" />
+=======
+        <state vertical-scroll-proportion="-23.0" vertical-offset="184" max-vertical-offset="1978">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Environmental Salon III Application and Practice Symposium TSC.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-23.0" vertical-offset="184" max-vertical-offset="2001">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Jiangsu Province, Suzhou emissions trading for the first time in the auction.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="124" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="-20.84375" vertical-offset="276" max-vertical-offset="2093">
+          <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+<<<<<<< .mine
+=======
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Jiangsu Province, the first half of 2014 was successfully held .html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0" vertical-offset="207" max-vertical-offset="2185">
+          <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> .r235
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Sharon second phase focused industrial organic waste prevention.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-24.4375" vertical-offset="138" max-vertical-offset="2001">
+          <caret line="40" column="175" selection-start-line="40" selection-start-column="175" selection-end-line="40" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Suzhou City special first major pollutants emissions.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.7147689">
+          <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+=======
+        <state vertical-scroll-proportion="-12.9375" vertical-offset="483" max-vertical-offset="2047">
+          <caret line="39" column="171" selection-start-line="39" selection-start-column="171" selection-end-line="39" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Yangtze carbon asset development and management seminar.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.5445321">
+          <caret line="76" column="71" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="71" />
+=======
+        <state vertical-scroll-proportion="-20.84375" vertical-offset="276" max-vertical-offset="2323">
+          <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/information_release/notices/Zhangjiagang City, focused enterprises (thing) business unit.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="88" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="88" />
+=======
+        <state vertical-scroll-proportion="-25.875" vertical-offset="276" max-vertical-offset="2024">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/data_query/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+=======
+        <state vertical-scroll-proportion="0.64825255" vertical-offset="3243" max-vertical-offset="5842">
+          <caret line="166" column="49" selection-start-line="166" selection-start-column="49" selection-end-line="166" selection-end-column="49" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/main_page/main_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-23.40625">
+          <caret line="184" column="41" selection-start-line="184" selection-start-column="41" selection-end-line="184" selection-end-column="41" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="6118">
+          <caret line="23" column="31" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/unit_query/real_data/real_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.31578946">
+          <caret line="66" column="120" selection-start-line="66" selection-start-column="120" selection-end-line="66" selection-end-column="120" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/unit_query/real_data/real_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
+=======
+        <state vertical-scroll-proportion="-21.96875" vertical-offset="1344" max-vertical-offset="2254">
+          <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/real_data/real_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="94" selection-end-column="26" />
+=======
+        <state vertical-scroll-proportion="-14.0625" vertical-offset="930" max-vertical-offset="3749">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/real_data/real_data.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="139" column="102" selection-start-line="139" selection-start-column="102" selection-end-line="139" selection-end-column="102" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-14.0625">
+          <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
+=======
+        <state vertical-scroll-proportion="-9.34375" vertical-offset="897" max-vertical-offset="5198">
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/data_query.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="278" column="47" selection-start-line="278" selection-start-column="47" selection-end-line="278" selection-end-column="47" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3910">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+>>>>>>> .r235
+<<<<<<< .mine
+=======
+          <folding>
+            <marker date="1448852757883" expanded="true" signature="4145:4159" placeholder="..." />
+            <marker date="1448852757883" expanded="true" signature="4230:4260" placeholder="..." />
+            <marker date="1448852757883" expanded="true" signature="4314:4323" placeholder="..." />
+          </folding>
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="4055" max-vertical-offset="10166">
+          <caret line="193" column="24" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+>>>>>>> .r235
+<<<<<<< .mine
+=======
+          <folding>
+            <marker date="1449467383238" expanded="true" signature="28910:29147" placeholder="{...}" />
+            <marker date="1449467383238" expanded="true" signature="29064:29071" placeholder="/*...*/" />
+          </folding>
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/main_page/rules.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-23.71875" vertical-offset="1173" max-vertical-offset="2921">
+          <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/main_page/saving_actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-13.34375" vertical-offset="1528" max-vertical-offset="5382">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="102" />
+>>>>>>> .r235
+<<<<<<< .mine
+=======
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#div#1;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/government/unit_query/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-8.625" vertical-offset="1219" max-vertical-offset="2461">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/laydate/laydate.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.25386313" vertical-offset="0" max-vertical-offset="906">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+>>>>>>> .r235
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4669653">
+          <caret line="283" column="129" selection-start-line="283" selection-start-column="129" selection-end-line="283" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/data_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.214286">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/unit_query/data_entry/data_entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/data_analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5637584">
+          <caret line="94" column="39" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.333333">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/LoadDataQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+<<<<<<< .mine
+            <marker date="1449472680097" expanded="true" signature="197:321" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472680097" expanded="true" signature="197:376" placeholder="select `ener..t_daily_data..." />
+=======
+            <element signature="n#!!doc" expanded="false" />
+>>>>>>> .r235
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQueryYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-27.62963">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-20.125" vertical-offset="828" max-vertical-offset="8717">
+          <caret line="64" column="95" selection-start-line="64" selection-start-column="95" selection-end-line="64" selection-end-column="95" />
+>>>>>>> .r235
+          <folding>
+<<<<<<< .mine
+            <element signature="e#6#94#0#PHP" expanded="true" />
+            <marker date="1449472620453" expanded="true" signature="376:504" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="376:513" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="376:528" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="376:537" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="376:555" placeholder="select `ener..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="907:914" placeholder="select a.``,..." />
+            <marker date="1449472620453" expanded="true" signature="907:1149" placeholder="select sum(a..t_daily_data..." />
+            <marker date="1449472620453" expanded="true" signature="1472:1700" placeholder="select b.`re..t_daily_data..." />
+=======
+            <element signature="n#style#0;n#div#1;n#label#0;n#div#1;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> .r235
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQuerySeason.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< .mine
+        <state vertical-scroll-proportion="-28.296297">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.11147903" vertical-offset="4913" max-vertical-offset="7521">
+          <caret line="218" column="44" selection-start-line="218" selection-start-column="44" selection-end-line="218" selection-end-column="44" />
+>>>>>>> .r235
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/HistoryQueryMonth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.962963">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/data_query/data_query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66630316">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding>
+            <element signature="e#93#208#0" expanded="false" />
+            <element signature="e#249#364#0" expanded="false" />
+            <element signature="e#403#821#0" expanded="false" />
+            <element signature="e#855#1273#0" expanded="false" />
+            <element signature="e#1306#1724#0" expanded="false" />
+            <element signature="e#2205#2623#0" expanded="false" />
+            <element signature="e#2655#3073#0" expanded="false" />
+            <element signature="e#3128#3195#0" expanded="false" />
+            <element signature="e#3235#3302#0" expanded="false" />
+            <element signature="e#3358#3440#0" expanded="false" />
+            <element signature="e#3480#3562#0" expanded="false" />
+            <element signature="e#3763#4103#0" expanded="false" />
+            <element signature="e#3919#3983#0" expanded="false" />
+            <element signature="n#!!block;n#QueryYear#0" expanded="false" />
+            <element signature="n#!!block;n#QuerySeason#0" expanded="false" />
+            <element signature="n#!!block;n#QueryMonth#0" expanded="false" />
+            <element signature="n#!!block;n#ResourceConsumptionColumn#0" expanded="false" />
+            <marker date="1449472491498" expanded="true" signature="6924:6938" placeholder="..." />
+            <marker date="1449472491498" expanded="true" signature="7009:7039" placeholder="..." />
+            <marker date="1449472491498" expanded="true" signature="7089:7098" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
