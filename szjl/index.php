@@ -14,7 +14,7 @@
 <div class="login">
     <div class="enter">
         <ul>
-            <li><p>用户类型：</p>
+            <li><p>用户类型12：</p>
                 <select id="user_type">
                     <option>用能单位</option>
                     <option>监管机构</option>
